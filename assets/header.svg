@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="t">
+  <title id="t">Himanshu Singh, Web Developer: WordPress, PHP and React</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123a8c"/>
+      <stop offset="1" stop-color="#0f8a8d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="16" fill="url(#bg)"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="118" font-size="64" font-weight="700" fill="#ffffff">Himanshu Singh</text>
+    <text x="600" y="170" font-size="26" fill="#d9f2f2">Web Developer · WordPress · PHP · React</text>
+  </g>
+</svg>

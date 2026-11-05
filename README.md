@@ -1,44 +1,32 @@
-<img src="assets/terminal.svg" alt="A terminal introducing Himanshu Singh, web developer in Dehradun, currently Sr. Designer and Developer at Abbot Technologies" width="100%">
+<img src="assets/header.svg" alt="Himanshu Singh, Web Developer: WordPress, PHP and React" width="100%">
 
-Hey, I'm Himanshu. I started on GitHub writing C, and these days I spend most of my time making WordPress talk to things it was never designed to talk to.
+Hi, I'm Himanshu, a web developer from Dehradun, India. I mainly work with WordPress and PHP, and I also connect WordPress sites to React apps and automate work with n8n.
 
-## `git log --oneline himanshu`
+## Quick facts
 
-```text
-* 2026  Joined Abbot Technologies: React + WordPress, payments, n8n
-* 2025  Built 45+ custom PHP sites from scratch at Xaca Technologies
-* 2025  Took a detour into UI/UX with CyberClipper
-* 2024  Wrote WordPress themes at Spiracle Themes, my first full-time job
-* 2024  Graduated, shipped QR tools, and did a Python internship
-* 2023  WordPress internship at Investors Forum India
-* 2023  Analysed credit card approvals in a Jupyter notebook
-* 2022  Learned Java, then my first web dev internship at Teachnook
-* 2021  Initial commit: C
-```
+- **Current role:** Sr. Designer and Developer at [Abbot Technologies](https://abbottechnologies.com/)
+- **Experience:** About 3 years
+- **Education:** B.Tech in Computer Science, Graphic Era Hill University
+- **Open to:** Freelance projects
 
-## Open these first
+## Tools
 
-| Repo | Why it's here |
+| Area | Tools |
 |---|---|
-| [`Himanshu-Singh-Portfolio`](https://github.com/HimanshuPharswan/Himanshu-Singh-Portfolio) | My portfolio site, with no framework and no build step |
-| [`QR-CodeScanner`](https://github.com/HimanshuPharswan/QR-CodeScanner) | Point a camera at a QR code in the browser and get a clickable link |
-| [`QR-CodeGenerator`](https://github.com/HimanshuPharswan/QR-CodeGenerator) | The other half: type something and get a QR code |
-| [`Ccredit-Card-Approval-Analysis`](https://github.com/HimanshuPharswan/Ccredit-Card-Approval-Analysis) | A look back at my data notebook days |
+| **CMS** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) |
+| **Code** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Automation & AI** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1F6FEB?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Design & version control** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00A3B4?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-## `stack.php`
+## Repositories
 
-```php
-<?php
-$daily   = ['WordPress', 'PHP', 'Elementor', 'MySQL', 'JavaScript'];
-$lately  = ['React', 'n8n', 'GoHighLevel', 'Claude', 'ChatGPT', 'Gemini'];
-$also    = ['Node.js', 'Webflow', 'Shopify', 'Python', 'Java', 'C'];
-$design  = ['Figma', 'Canva', 'Photoshop'];
-```
+| Repository | What it does |
+|---|---|
+| [Himanshu-Singh-Portfolio](https://github.com/HimanshuPharswan/Himanshu-Singh-Portfolio) | My portfolio website |
+| [QR-CodeScanner](https://github.com/HimanshuPharswan/QR-CodeScanner) | Scans QR codes in the browser |
+| [QR-CodeGenerator](https://github.com/HimanshuPharswan/QR-CodeGenerator) | Creates a QR code from text |
+| [Random_Password_Generator](https://github.com/HimanshuPharswan/Random_Password_Generator) | Generates random passwords in Python |
 
-## Away from the keyboard
+## Contact
 
-I play football, and my team took 1st place in a tournament at Graphic Era University.
-
-## Say hi
-
-Freelance work, a WordPress problem or a question about one of these repos: [LinkedIn](https://www.linkedin.com/in/himanshu-singh-web-developer/) or [email](mailto:himanshupharswan67@gmail.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-web-developer/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshupharswan67@gmail.com)
