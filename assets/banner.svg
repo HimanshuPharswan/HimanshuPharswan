@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Himanshu Singh, web developer</title>
+  <desc id="d">Banner with the HS monogram, the name Himanshu Singh, and a typing line that cycles through his roles.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1d2733" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0c1117" stop-opacity="1"/>
+      <stop offset=".55" stop-color="#0c1117" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#0c1117" stop-opacity=".25"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#f2a02e" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#f2a02e" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c1"><rect x="70" y="200" height="50" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;.05;.16;.2;1" values="0;221;221;0;0"/></rect></clipPath>
+    <clipPath id="c2"><rect x="70" y="200" height="50" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;.2;.26;.36;.4;1" values="0;0;323;323;0;0"/></rect></clipPath>
+    <clipPath id="c3"><rect x="70" y="200" height="50" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;.4;.45;.56;.6;1" values="0;0;221;221;0;0"/></rect></clipPath>
+    <clipPath id="c4"><rect x="70" y="200" height="50" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;.6;.65;.76;.8;1" values="0;0;272;272;0;0"/></rect></clipPath>
+    <clipPath id="c5"><rect x="70" y="200" height="50" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;.8;.85;.96;1" values="0;0;306;306;0"/></rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0c1117"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#fade)"/>
+  <circle cx="960" cy="160" r="240" fill="url(#glow)">
+    <animate attributeName="r" dur="6s" repeatCount="indefinite" values="220;255;220"/>
+  </circle>
+
+  <!-- monogram -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800">
+    <text x="960" y="210" text-anchor="middle" font-size="170" letter-spacing="-8" fill="#e5ebf1">HS<tspan fill="#f2a02e">.</tspan></text>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-1.5" fill="#e5ebf1">Himanshu Singh</text>
+  <text x="70" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#8e9bab">WordPress &amp; PHP · Dehradun, India</text>
+
+  <!-- typing roles -->
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="28" fill="#f2a02e">
+    <text clip-path="url(#c1)" x="70" y="234" textLength="218" lengthAdjust="spacing">Web Developer</text>
+    <text clip-path="url(#c2)" x="70" y="234" textLength="319" lengthAdjust="spacing">WordPress Developer</text>
+    <text clip-path="url(#c3)" x="70" y="234" textLength="218" lengthAdjust="spacing">PHP Developer</text>
+    <text clip-path="url(#c4)" x="70" y="234" textLength="269" lengthAdjust="spacing">Elementor Expert</text>
+    <text clip-path="url(#c5)" x="70" y="234" textLength="302" lengthAdjust="spacing">Automation Builder</text>
+  </g>
+  <rect x="70" y="208" width="3" height="32" fill="#f2a02e">
+    <animate attributeName="x" dur="15s" repeatCount="indefinite" keyTimes="0;.05;.16;.2;.26;.36;.4;.45;.56;.6;.65;.76;.8;.85;.96;1" values="70;291;291;70;393;393;70;291;291;70;342;342;70;376;376;70"/>
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.5" values="1;0"/>
+  </rect>
+</svg>
