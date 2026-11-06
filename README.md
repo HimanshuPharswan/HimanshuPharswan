@@ -4,7 +4,7 @@ Hi, I'm Himanshu, a web developer from Dehradun, India. I mainly work with WordP
 
 ## Quick facts
 
-- **Current role:** Sr. Designer and Developer at [Abbot Technologies](https://abbottechnologies.com/)
+- **Current role:** Senior Designer and Developer at [Abbot Technologies](https://abbottechnologies.com/)
 - **Experience:** About 3 years
 - **Education:** B.Tech in Computer Science, Graphic Era Hill University
 - **Open to:** Freelance projects
