@@ -21,10 +21,10 @@ Hi, I'm Himanshu, a web developer from Dehradun, India. I mainly work with WordP
 
 | Repository | What it does |
 |---|---|
-| [Himanshu-Singh-Portfolio](https://github.com/HimanshuPharswan/Himanshu-Singh-Portfolio) | My portfolio website |
-| [QR-CodeScanner](https://github.com/HimanshuPharswan/QR-CodeScanner) | Scans QR codes in the browser |
-| [QR-CodeGenerator](https://github.com/HimanshuPharswan/QR-CodeGenerator) | Creates a QR code from text |
-| [Random_Password_Generator](https://github.com/HimanshuPharswan/Random_Password_Generator) | Generates random passwords in Python |
+| [Himanshu-Singh-Portfolio](https://github.com/HimanshuPharswan/Himanshu-Singh-Portfolio) | My personal portfolio website, built with plain HTML, CSS and JavaScript |
+| [QR-CodeScanner](https://github.com/HimanshuPharswan/QR-CodeScanner) | Scans QR codes with your camera in the browser and shows the result as a link |
+| [QR-CodeGenerator](https://github.com/HimanshuPharswan/QR-CodeGenerator) | Makes QR codes in the browser, with multi-language support, Wi-Fi codes, an optional name in the centre and PNG download |
+| [Random_Password_Generator](https://github.com/HimanshuPharswan/Random_Password_Generator) | A website that makes strong random passwords, with a strength meter, one-click copy and dark mode (plus the original Python version) |
 
 ## Contact
 
